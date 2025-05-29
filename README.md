@@ -9,14 +9,23 @@ This repository contains solutions to classic problems related to CPU scheduling
 OS_CODES/
 │
 ├── banker.c                  # Banker’s Algorithm for deadlock avoidance
+<br>
 ├── CPU_Scheduling.c          # FCFS, SJF, RR, and Priority scheduling
+<br>
 ├── Dining_philophers.c      # Dining Philosophers Problem using semaphores
+<br>
 ├── Disk_scheduling.c        # Disk scheduling algorithms (FCFS, SCAN, LOOK)
+<br>
 ├── layered_process_ch…    # Layered process channel simulation (truncated)
+<br>
 ├── Page_Replacement.c       # FIFO, LRU, and Optimal page replacement
+<br>
 ├── pipe.c                   # Inter-process communication using pipes
+<br>
 ├── process_manager.c        # Simple process management simulation
+<br>
 ├── Producer_consumer.c      # Producer-Consumer Problem using semaphores
+<br>
 ├── Reader_writer.c          # Reader-Writer Problem synchronization
 
 ---
