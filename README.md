@@ -32,9 +32,8 @@ OS_CODES/
 
 ## 🧑‍💻 Author
 
-**Savitur Chauhan**  
-Teaching Assistant, Digital Systems Lab  
-LNMIIT, Jaipur
+Savitur Chauhan
+
 
 ---
 
